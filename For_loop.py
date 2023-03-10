@@ -4,3 +4,8 @@ for i in range(0, number_of_names):
     print(i)
 
 # This is a new line added to check if the Git is working or not
+
+meals = ['pasta', 'pizza', 'salad']
+
+for meal in meals:
+    print(meal.capitalize())
